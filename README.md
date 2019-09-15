@@ -1,1 +1,1 @@
-# Pytthon for data science from the vert beginning.
+# Pytthon for data science from the very beginning.
