@@ -1,1 +1,1 @@
-# Pytthon for data science from the very beginning.
+# Python for data science from the very beginning.
